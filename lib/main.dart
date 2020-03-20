@@ -48,7 +48,7 @@ class MyAppState extends State<MyApp> {
                   child: Padding(
                 padding: const EdgeInsets.all(16.0),
                 child: Text(
-                    'Connection error...Please check your INTERNET connection'),
+                    'Check Your INTERNET connection', style: const TextStyle(fontSize: 18.0),),
               ));
             }
             return const Center(child: const CircularProgressIndicator());
