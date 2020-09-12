@@ -1,7 +1,7 @@
 # quake_report
 
 A mobile application built with Flutter tells you the most recent earthquakes (Time, Place, and Intensity) all over the world.
-It is inspired by Quake report app which was built during Udacity android [Course](https://classroom.udacity.com/courses/ud843) by Google.
+It is inspired by Quake report app which was built during Udacity android [Course](https://classroom.udacity.com/courses/ud843) by Google, but in flutter (away different experience).
 
 ## Screenshots
   See screenshots folder.
